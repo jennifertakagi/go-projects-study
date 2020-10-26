@@ -1,5 +1,5 @@
 <p align="left">
-   <img src="docs/logo.png" width="150"/>
+   <img src="docs/logo.png" width="200"/>
 </p>
 
 # Go - Study's Projects
