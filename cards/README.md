@@ -1,10 +1,6 @@
-<p align="left">
-   <img src="docs/logo.jpg" width="150"/>
-</p>
-
 # Cards: Go - Study's Projects
 
-> Cards' project, using variables, slice, functions
+> Cards' project using functions, slice, strings, time, os, math/rand, io/ioutil, and also testing all of these.
 
 ---
 
@@ -17,15 +13,21 @@
 
 # :rocket: Features
 
-* Create a list of playing cars.
+* Create a list of playing cards
 * Log out the contents of a deck of cards
-* Shuffles all the cards ina  deck
+* Shuffle all the cards ina  deck
 * Create a hand of cards
 * Save a list of cards to a file on the local machine
 * Load a list of cards from the local machine
 
 # :runner: Getting Started
 
-Run the following command in order to start the application:
+Run the following command to start the application:
 
 ```go main.go deck.go```
+
+# :chart_with_upwards_trend: Testing the code
+
+Run the following command to test the application:
+
+```go test```
